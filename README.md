@@ -8,7 +8,7 @@ Nous souhaitons réaliser une application permettant de gérer les compte bancai
  - Il existe deux type d'opération: Versement et Retrait
  - Une Opération est définie pas son numéro, la date et le montant
 
-   ##Enoncé
+   ## Enoncé
    L'application doit permettre de:
     - Gérer les Client:
       -- Ajouter un Client
